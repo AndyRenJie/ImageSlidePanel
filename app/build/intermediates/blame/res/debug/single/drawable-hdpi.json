@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "E:\\SVN\\source_code\\android_code\\Laugh\\firstPage_template1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\right.png",
+        "source": "E:\\SVN\\source_code\\android_code\\Laugh\\firstPage_template1\\app\\src\\main\\res\\drawable-hdpi\\right.png"
+    },
+    {
+        "merged": "E:\\SVN\\source_code\\android_code\\Laugh\\firstPage_template1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\up.png",
+        "source": "E:\\SVN\\source_code\\android_code\\Laugh\\firstPage_template1\\app\\src\\main\\res\\drawable-hdpi\\up.png"
+    },
+    {
+        "merged": "E:\\SVN\\source_code\\android_code\\Laugh\\firstPage_template1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\left.png",
+        "source": "E:\\SVN\\source_code\\android_code\\Laugh\\firstPage_template1\\app\\src\\main\\res\\drawable-hdpi\\left.png"
+    },
+    {
+        "merged": "F:\\firstPage_template1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\up.png",
+        "source": "F:\\firstPage_template1\\app\\src\\main\\res\\drawable-hdpi\\up.png"
+    },
+    {
+        "merged": "F:\\firstPage_template1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\left.png",
+        "source": "F:\\firstPage_template1\\app\\src\\main\\res\\drawable-hdpi\\left.png"
+    },
+    {
+        "merged": "F:\\firstPage_template1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\right.png",
+        "source": "F:\\firstPage_template1\\app\\src\\main\\res\\drawable-hdpi\\right.png"
+    },
+    {
+        "merged": "E:\\SVN\\source_code\\android_code\\Laugh\\firstPage_template1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "E:\\SVN\\source_code\\android_code\\Laugh\\firstPage_template1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\firstPage_template1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "F:\\firstPage_template1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    }
+]

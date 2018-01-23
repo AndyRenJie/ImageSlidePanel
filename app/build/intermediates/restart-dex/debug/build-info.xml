@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    api-level="19"
+    density="xxhdpi"
+    format="8"
+    plugin-version="2.2.0"
+    timestamp="5957634470095"
+    token="4907928487281124196"
+    verifier="COMPATIBLE" >
+
+    <task
+        name="javac"
+        duration="105" />
+    <task
+        name="instant-run-dex"
+        duration="462" />
+    <task
+        name="instant-run-transform"
+        duration="16" />
+    <task
+        name="verifier"
+        duration="2" />
+
+    <artifact
+        location="E:\SVN\source_code\android_code\Laugh\firstPage_template1\app\build\intermediates\reload-dex\debug\classes.dex"
+        type="RELOAD_DEX" />
+
+    <build
+        timestamp="5781124483863"
+        verifier="R_CLASS_CHANGE" >
+        <artifact
+            location="E:\SVN\source_code\android_code\Laugh\firstPage_template1\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="5892539569614"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="E:\SVN\source_code\android_code\Laugh\firstPage_template1\app\build\intermediates\builds\debug\5892539569614\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="5911415163700"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="E:\SVN\source_code\android_code\Laugh\firstPage_template1\app\build\intermediates\builds\debug\5911415163700\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="5932708413635"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="E:\SVN\source_code\android_code\Laugh\firstPage_template1\app\build\intermediates\builds\debug\5932708413635\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+    <build
+        timestamp="5957634470095"
+        verifier="COMPATIBLE" >
+        <artifact
+            location="E:\SVN\source_code\android_code\Laugh\firstPage_template1\app\build\intermediates\reload-dex\debug\classes.dex"
+            type="RELOAD_DEX" />
+    </build>
+
+</instant-run>

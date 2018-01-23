@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "F:\\firstPage_template1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\bottom_shake.xml",
+        "source": "F:\\firstPage_template1\\app\\src\\main\\res\\anim\\bottom_shake.xml"
+    },
+    {
+        "merged": "E:\\SVN\\source_code\\android_code\\Laugh\\firstPage_template1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\image_in.xml",
+        "source": "E:\\SVN\\source_code\\android_code\\Laugh\\firstPage_template1\\app\\src\\main\\res\\anim\\image_in.xml"
+    },
+    {
+        "merged": "E:\\SVN\\source_code\\android_code\\Laugh\\firstPage_template1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\layout_animation.xml",
+        "source": "E:\\SVN\\source_code\\android_code\\Laugh\\firstPage_template1\\app\\src\\main\\res\\anim\\layout_animation.xml"
+    },
+    {
+        "merged": "F:\\firstPage_template1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\layout_animation.xml",
+        "source": "F:\\firstPage_template1\\app\\src\\main\\res\\anim\\layout_animation.xml"
+    },
+    {
+        "merged": "F:\\firstPage_template1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\anim_item.xml",
+        "source": "F:\\firstPage_template1\\app\\src\\main\\res\\anim\\anim_item.xml"
+    },
+    {
+        "merged": "E:\\SVN\\source_code\\android_code\\Laugh\\firstPage_template1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\right_shake.xml",
+        "source": "E:\\SVN\\source_code\\android_code\\Laugh\\firstPage_template1\\app\\src\\main\\res\\anim\\right_shake.xml"
+    },
+    {
+        "merged": "F:\\firstPage_template1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\left_shake.xml",
+        "source": "F:\\firstPage_template1\\app\\src\\main\\res\\anim\\left_shake.xml"
+    },
+    {
+        "merged": "F:\\firstPage_template1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\right_shake.xml",
+        "source": "F:\\firstPage_template1\\app\\src\\main\\res\\anim\\right_shake.xml"
+    },
+    {
+        "merged": "F:\\firstPage_template1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\cycle_interpolator.xml",
+        "source": "F:\\firstPage_template1\\app\\src\\main\\res\\anim\\cycle_interpolator.xml"
+    },
+    {
+        "merged": "E:\\SVN\\source_code\\android_code\\Laugh\\firstPage_template1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\anim_item.xml",
+        "source": "E:\\SVN\\source_code\\android_code\\Laugh\\firstPage_template1\\app\\src\\main\\res\\anim\\anim_item.xml"
+    },
+    {
+        "merged": "E:\\SVN\\source_code\\android_code\\Laugh\\firstPage_template1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\cycle_interpolator.xml",
+        "source": "E:\\SVN\\source_code\\android_code\\Laugh\\firstPage_template1\\app\\src\\main\\res\\anim\\cycle_interpolator.xml"
+    },
+    {
+        "merged": "E:\\SVN\\source_code\\android_code\\Laugh\\firstPage_template1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\bottom_shake.xml",
+        "source": "E:\\SVN\\source_code\\android_code\\Laugh\\firstPage_template1\\app\\src\\main\\res\\anim\\bottom_shake.xml"
+    },
+    {
+        "merged": "E:\\SVN\\source_code\\android_code\\Laugh\\firstPage_template1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\left_shake.xml",
+        "source": "E:\\SVN\\source_code\\android_code\\Laugh\\firstPage_template1\\app\\src\\main\\res\\anim\\left_shake.xml"
+    },
+    {
+        "merged": "F:\\firstPage_template1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\image_in.xml",
+        "source": "F:\\firstPage_template1\\app\\src\\main\\res\\anim\\image_in.xml"
+    }
+]
